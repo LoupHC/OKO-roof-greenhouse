@@ -1,10 +1,10 @@
 # Matériel nécessaire
 
-...Power supply
-...Arduino Mega
-...Ethernet Shield
-...DS3231 module
-...Relay board
-...Ethernet cable
-...SD card
-...Routeur
+1. Power supply
+2. Arduino Mega
+3. Ethernet Shield
+1. DS3231 module
+1. Relay board
+1. Ethernet cable
+1. SD card
+1. Routeur
